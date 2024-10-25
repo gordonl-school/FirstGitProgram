@@ -7,5 +7,6 @@ public class Runner {
         int y = 1;
         System.out.println("On Wednesday I have an AP Lang test and once I finish that, I only have " + (x - y) + " tests left. ");
         System.out.println("Once I finish my tests on Halloween, it will be super cool ");
+        System.out.println("It's going to be a long week though.");
     }
 }
